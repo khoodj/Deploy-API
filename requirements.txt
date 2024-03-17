@@ -1,5 +1,0 @@
-pyomo
-pandas
-numpy
-fastapi
-pydantic

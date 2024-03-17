@@ -1,0 +1,8 @@
+pyomo
+pandas
+numpy
+fastapi
+pydantic
+azure-functions
+requests
+urllib3==1.23
